@@ -1,8 +1,8 @@
-Personal Portfolio Website
+# Personal Portfolio Website
 
 A clean, beginner-friendly portfolio website built using fundamental HTML concepts, showcasing my professional journey, education, skills, achievements, and project work. Designed as a single-page structure with bookmark-style navigation for smooth section-to-section movement, this site represents my first practical step toward web development and building my digital identity.
 
-Features
+## Features
 
 Structured single-page layout using semantic HTML
 
@@ -14,7 +14,7 @@ Profile photo and external links (Email, LinkedIn, GitHub)
 
 Project, achievements, internships, and education sections
 
-What I Learned
+## What I Learned
 
 Practical application of HTML tags including headings, lists, anchors, images, and layout elements
 
